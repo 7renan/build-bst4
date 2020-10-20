@@ -1,0 +1,35 @@
+// Colors variables
+
+
+$blue:     #3498db !default;
+$indigo:   #5e94ff !default;
+$purple:   #9b59b6 !default;
+$pink:     #ff4da5 !default;
+$red:      #ee4d4d !default;
+$orange:   #e67e22 !default;
+$yellow:   #f1c40f !default;
+$green:    #2ecc71 !default;
+$teal:     #20c997 !default;
+$cyan:     #17a2b8 !default;
+$dark:     #34495e !default;
+$light-grey:#edeff1 !default;
+// radius
+
+$border-radius:               .15rem !default;
+$border-radius-lg:            .2rem !default;
+$border-radius-sm:            .1rem !default;
+
+// card
+$card-border-width: 0 !default;
+$card-cap-bg:  $light-grey !default;
+
+// tables
+$table-hover-color: $dark !default;
+$table-hover-bg: $light-grey !default;
+$table-border-width: 1px !default;
+$table-border-color: $light-grey !default;
+
+// border input
+$input-btn-focus-width:       0.05rem !default;
+
+@import "node_modules/bootstrap/scss/bootstrap";
